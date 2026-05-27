@@ -134,17 +134,17 @@ let slideInterval = null
 
 const slides = [
   {
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=lure%20fishing%20in%20beautiful%20lake%20sunset%20scenery&image_size=landscape_16_9',
+    image: 'https://images.unsplash.com/photo-1512058793329-d35425958520?w=1920&h=1080&fit=crop',
     title: '路亚钓鱼入门指南',
     description: '从零开始学习路亚钓鱼，掌握必备技巧'
   },
   {
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=professional%20fishing%20equipment%20rod%20reel%20lures%20on%20wooden%20table&image_size=landscape_16_9',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&h=1080&fit=crop',
     title: '新手装备推荐',
     description: '精选适合新手的入门装备组合'
   },
   {
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=big%20fish%20catch%20proud%20angler%20holding%20fish%20by%20the%20water&image_size=landscape_16_9',
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&h=1080&fit=crop',
     title: '钓获分享',
     description: '钓友们的精彩渔获展示'
   }
@@ -165,7 +165,7 @@ const articles = [
     title: '新手路亚装备选择指南',
     summary: '作为路亚新手，如何选择适合自己的第一套装备？本文详细介绍鱼竿、渔轮、鱼线和假饵的选择要点。',
     category: '装备指南',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20rod%20and%20reel%20combo%20close%20up%20detailed&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     date: '2024-01-15',
     views: 3280
   },
@@ -174,7 +174,7 @@ const articles = [
     title: '水滴轮抛投技巧详解',
     summary: '水滴轮是路亚钓法中常用的渔轮类型，掌握正确的抛投技巧是入门的关键。本文图文并茂讲解水滴轮抛投方法。',
     category: '钓鱼技巧',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20casting%20technique%20water%20splashing%20action%20shot&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1512058793329-d35425958520?w=800&h=600&fit=crop',
     date: '2024-01-12',
     views: 2856
   },
@@ -183,17 +183,17 @@ const articles = [
     title: '翘嘴鲌钓法全攻略',
     summary: '翘嘴鲌是路亚爱好者最喜爱的目标鱼种之一，本文介绍翘嘴鲌的习性、栖息环境和最佳钓法。',
     category: '鱼种图鉴',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=top%20mouth%20culter%20fish%20close%20up%20freshwater&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop',
     date: '2024-01-10',
     views: 4120
   }
 ]
 
 const catches = [
-  { id: 1, image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=big%20bass%20fish%20catch%20close%20up%20freshwater&image_size=square', title: '巨鲈上钩', weight: '5.2kg' },
-  { id: 2, image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=large%20pike%20fish%20catch%20by%20angler&image_size=square', title: '凶猛翘嘴', weight: '3.8kg' },
-  { id: 3, image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=mandarin%20fish%20catch%20freshwater%20beautiful&image_size=square', title: '桂花鱼', weight: '1.5kg' },
-  { id: 4, image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=catfish%20catch%20big%20size%20freshwater&image_size=square', title: '大鲶鱼', weight: '8.0kg' }
+  { id: 1, image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=400&fit=crop', title: '巨鲈上钩', weight: '5.2kg' },
+  { id: 2, image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop', title: '凶猛翘嘴', weight: '3.8kg' },
+  { id: 3, image: 'https://images.unsplash.com/photo-1512058793329-d35425958520?w=400&h=400&fit=crop', title: '桂花鱼', weight: '1.5kg' },
+  { id: 4, image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=400&fit=crop', title: '大鲶鱼', weight: '8.0kg' }
 ]
 
 onMounted(() => {

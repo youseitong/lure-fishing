@@ -187,7 +187,7 @@ const fishList = [
     season: '夏季、秋季',
     recommendedLure: '米诺、铅笔、铁板',
     tags: ['热门', '中上层', '夏季'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=top%20mouth%20culter%20fish%20freshwater%20predator&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     details: '翘嘴鲌，俗称翘嘴、大白鱼，是一种大型淡水掠食性鱼类。其特征是口上位，下颌突出上翘，因此得名。翘嘴鲌体型修长，游泳速度快，性情凶猛，主要以小鱼、小虾为食。',
     fishingTips: [
       '选择清晨或傍晚时段出钓，此时翘嘴活跃度最高',
@@ -207,7 +207,7 @@ const fishList = [
     season: '春季、秋季',
     recommendedLure: '软饵、铅头钩、胡须佬',
     tags: ['底层', '伏击型', '春秋季'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=mandarin%20fish%20freshwater%20beautiful&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     details: '鳜鱼，又名桂花鱼、季花鱼，是中国名贵的淡水食用鱼类。其身体呈黄绿色，带有斑点，肉质鲜美。鳜鱼是典型的伏击型猎手，喜欢躲藏在石缝、水草等障碍物附近。',
     fishingTips: [
       '寻找有结构的区域，如桥墩、石头缝、水草区',
@@ -227,7 +227,7 @@ const fishList = [
     season: '全年',
     recommendedLure: '复合亮片、铅笔、米诺',
     tags: ['全水层', '全年', '热门'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=sea%20bass%20fish%20freshwater%20predator&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     details: '鲈鱼是一种广盐性鱼类，既能生活在海水中，也能在淡水中生存。它是路亚爱好者最喜爱的目标鱼种之一，攻击性强，上钩后搏斗激烈，极具挑战性。',
     fishingTips: [
       '鲈鱼适应能力强，可在各种水域垂钓',
@@ -247,7 +247,7 @@ const fishList = [
     season: '夏季',
     recommendedLure: '浮水铅笔、波扒、铁板',
     tags: ['中上层', '高速', '夏季'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=yellow%20cheek%20carp%20fish%20large%20freshwater&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     details: '鳡鱼，俗称黄钻、竿鱼，是一种大型淡水凶猛鱼类。其身体细长，呈流线型，游泳速度极快，被称为"水中猎豹"。鳡鱼主要以其他鱼类为食，攻击性极强。',
     fishingTips: [
       '选择开阔水域，鳡鱼喜欢追逐小鱼群',
@@ -267,7 +267,7 @@ const fishList = [
     season: '夏季、秋季',
     recommendedLure: '软饵、蛙饵',
     tags: ['底层', '夜行', '夏秋'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=catfish%20freshwater%20bottom%20feeder&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     details: '鲶鱼是一种底栖性鱼类，身体光滑无鳞，有须，嗅觉和触觉都很灵敏。它喜欢生活在水体底层，夜间活动频繁，以小鱼、小虾和有机碎屑为食。',
     fishingTips: [
       '夜间出钓效果更好',
@@ -287,7 +287,7 @@ const fishList = [
     season: '春季、夏季',
     recommendedLure: '小型亮片、迷你米诺',
     tags: ['小型', '溪流', '入门'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=chub%20fish%20colorful%20stream%20freshwater&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     details: '马口鱼是一种小型淡水鱼类，雄鱼在繁殖季节色彩艳丽，极具观赏性。虽然体型小，但攻击性强，是路亚新手入门练习的理想目标。',
     fishingTips: [
       '使用小型假饵，大小在3-5cm为宜',

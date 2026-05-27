@@ -173,7 +173,7 @@ const catches = [
     author: '路亚小王子',
     location: '千岛湖',
     likes: 256,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=big%20bass%20fish%20catch%20close%20up%20freshwater&image_size=square'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop'
   },
   {
     id: 2,
@@ -183,7 +183,7 @@ const catches = [
     author: '渔乐无穷',
     location: '长江',
     likes: 189,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=large%20pike%20fish%20catch%20by%20angler&image_size=square'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop'
   },
   {
     id: 3,
@@ -193,7 +193,7 @@ const catches = [
     author: '山野钓客',
     location: '青龙山水库',
     likes: 145,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=mandarin%20fish%20catch%20freshwater%20beautiful&image_size=square'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop'
   },
   {
     id: 4,
@@ -203,7 +203,7 @@ const catches = [
     author: '夜钓达人',
     location: '太湖',
     likes: 312,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=catfish%20catch%20big%20size%20freshwater&image_size=square'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop'
   },
   {
     id: 5,
@@ -213,7 +213,7 @@ const catches = [
     author: '钓鱼新手',
     location: '天目湖',
     likes: 98,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=red%20tail%20fish%20catch%20freshwater&image_size=square'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop'
   },
   {
     id: 6,
@@ -223,7 +223,7 @@ const catches = [
     author: '路亚高手',
     location: '鄱阳湖',
     likes: 423,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=yellow%20cheek%20carp%20fish%20large%20catch&image_size=square'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop'
   },
   {
     id: 7,
@@ -233,7 +233,7 @@ const catches = [
     author: '雷强猎手',
     location: '湿地',
     likes: 178,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=black%20fish%20catch%20freshwater%20snakehead&image_size=square'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop'
   },
   {
     id: 8,
@@ -243,7 +243,7 @@ const catches = [
     author: '溪流玩家',
     location: '小溪',
     likes: 134,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=chub%20fish%20colorful%20small%20catch&image_size=square'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&h=400&fit=crop'
   }
 ]
 
@@ -255,7 +255,7 @@ const highlights = [
     location: '太湖',
     date: '2024-01-14',
     likes: 312,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=giant%20catfish%20catch%20at%20night%20fishing&image_size=landscape_16_9'
+    image: 'https://images.unsplash.com/photo-1512058793329-d35425958520?w=1920&h=1080&fit=crop'
   },
   {
     title: '千岛湖巨鲈',
@@ -264,7 +264,7 @@ const highlights = [
     location: '千岛湖',
     date: '2024-01-15',
     likes: 256,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=big%20bass%20fish%20catch%20trophy&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     title: '鳡鱼王者',
@@ -273,7 +273,7 @@ const highlights = [
     location: '鄱阳湖',
     date: '2024-01-13',
     likes: 423,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=yellow%20cheek%20carp%20fish%20trophy%20catch&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   }
 ]
 

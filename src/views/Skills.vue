@@ -135,7 +135,7 @@ const articles = [
     title: '水滴轮侧抛技巧详解',
     summary: '侧抛是水滴轮最常用的抛投方式，适合近距离精准投放。本文详细讲解侧抛的动作要领和注意事项。',
     category: '抛投技巧',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20side%20casting%20technique%20water&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     date: '2024-01-18',
     views: 3520
   },
@@ -144,7 +144,7 @@ const articles = [
     title: '纺车轮远投技巧',
     summary: '纺车轮适合远距离抛投，掌握正确的抛投姿势和发力技巧是关键。本文图文并茂讲解纺车轮远投方法。',
     category: '抛投技巧',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20long%20cast%20spinning%20reel&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     date: '2024-01-15',
     views: 2890
   },
@@ -153,7 +153,7 @@ const articles = [
     title: '如何寻找有效钓点',
     summary: '找到好的钓点是钓鱼成功的一半。本文介绍如何根据地形、水流、季节等因素寻找路亚标点。',
     category: '标点选择',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20spot%20selection%20lake%20shore&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     date: '2024-01-12',
     views: 4150
   },
@@ -162,7 +162,7 @@ const articles = [
     title: '目标水层控制技巧',
     summary: '不同鱼种活跃在不同水层，掌握水层控制技巧能大大提高中鱼率。本文介绍如何根据假饵类型控制水层。',
     category: '水层控制',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20depth%20control%20underwater%20view&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     date: '2024-01-10',
     views: 3280
   },
@@ -171,7 +171,7 @@ const articles = [
     title: '假饵操作手法大全',
     summary: '不同假饵需要不同的操控手法。本文详细介绍米诺、铅笔、波扒、软饵等常见假饵的操作技巧。',
     category: '操作手法',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20lure%20retrieval%20techniques&image_size=landscape_4_3',
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop',
     date: '2024-01-08',
     views: 4520
   }
@@ -207,28 +207,28 @@ const spots = [
     name: '水草区',
     description: '水草区是鱼类的天然栖息地，适合使用软饵跳底或水面系假饵。',
     tags: ['障碍物', '伏击点', '夏季'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20weed%20bed%20aquatic%20plants&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     id: 2,
     name: '桥墩附近',
     description: '桥墩周围有丰富的饵食和隐蔽空间，是大型鱼类的聚集地。',
     tags: ['结构点', '深水', '全年'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20bridge%20pier%20structure&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     id: 3,
     name: '深浅交界处',
     description: '深浅交界处是鱼类觅食的必经之路，适合守株待兔。',
     tags: ['过渡区', '洄游路线', '春秋季'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20depth%20transition%20zone%20underwater&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     id: 4,
     name: '进出水口',
     description: '水流交汇处氧气充足、饵食丰富，是绝佳的路亚标点。',
     tags: ['活水', '觅食区', '夏季'],
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20inflow%20outflow%20water%20current&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   }
 ]
 </script>

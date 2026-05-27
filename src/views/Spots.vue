@@ -166,7 +166,7 @@ const spots = [
     date: '2024-01-15',
     views: 3256,
     comments: 128,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=qiandao%20lake%20beautiful%20scenery%20fishing&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     id: 2,
@@ -179,7 +179,7 @@ const spots = [
     date: '2024-01-12',
     views: 2180,
     comments: 86,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=yangtze%20river%20fishing%20spot%20scenic&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     id: 3,
@@ -192,7 +192,7 @@ const spots = [
     date: '2024-01-10',
     views: 1890,
     comments: 72,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=lake%20taihu%20fishing%20sunset%20view&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     id: 4,
@@ -205,7 +205,7 @@ const spots = [
     date: '2024-01-08',
     views: 1256,
     comments: 45,
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=reservoir%20fishing%20peaceful%20countryside&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   }
 ]
 

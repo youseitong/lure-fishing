@@ -143,7 +143,7 @@ const equipmentList = [
     description: '适合新手的高性价比套装，包含鱼竿、渔轮和基础配件',
     tags: ['新手推荐', '套装'],
     price: '¥399',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20rod%20combo%20set%20complete%20kit&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     id: 2,
@@ -151,7 +151,7 @@ const equipmentList = [
     description: '专业级水滴轮配置，适合精准抛投和控鱼',
     tags: ['水滴轮', '专业'],
     price: '¥699',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=baitcasting%20fishing%20rod%20and%20reel%20close%20up&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1512058793329-d35425958520?w=800&h=600&fit=crop'
   },
   {
     id: 3,
@@ -159,7 +159,7 @@ const equipmentList = [
     description: '操作简单，适合新手入门和远投',
     tags: ['纺车轮', '新手'],
     price: '¥459',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=spinning%20fishing%20rod%20and%20reel%20outdoor&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop'
   },
   {
     id: 4,
@@ -167,7 +167,7 @@ const equipmentList = [
     description: '高强度编织线，适合远投和搏大鱼',
     tags: ['PE线', '高强度'],
     price: '¥129',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=fishing%20braided%20line%20spool%20close%20up&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=600&fit=crop'
   },
   {
     id: 5,
@@ -175,7 +175,7 @@ const equipmentList = [
     description: '多种颜色和尺寸，适合不同水层和鱼种',
     tags: ['硬饵', '套装'],
     price: '¥89',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=minnow%20fishing%20lures%20various%20colors&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1512058793329-d35425958520?w=800&h=600&fit=crop'
   },
   {
     id: 6,
@@ -183,7 +183,7 @@ const equipmentList = [
     description: '卷尾蛆、软虫等多种软饵，适合精细钓法',
     tags: ['软饵', '精细'],
     price: '¥69',
-    image: 'https://neeko-copilot.bytedance.net/api/text_to_image?prompt=soft%20plastic%20fishing%20lures%20assorted&image_size=landscape_4_3'
+    image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&h=600&fit=crop'
   }
 ]
 
