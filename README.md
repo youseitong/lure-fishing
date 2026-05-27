@@ -1,12 +1,70 @@
-# React + Vite
+# 路亚钓鱼网站
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+一个面向新手钓友的路亚钓鱼科普平台，专注于从装备选择、抛投技巧、标点选择到目标水层等基础知识的科普教育。
 
-Currently, two official plugins are available:
+## 功能特点
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **装备指南**：鱼竿、渔轮、鱼线、假饵等装备介绍和选购建议
+- **钓鱼技巧**：抛投技巧、标点选择、目标水层控制等图文教程
+- **鱼种图鉴**：各类路亚目标鱼的详细介绍和钓法攻略
+- **钓点分享**：用户分享的钓点信息和攻略
+- **钓获记录**：钓友们的精彩渔获展示
 
-## Expanding the ESLint configuration
+## 技术栈
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Vue 3 + Vite
+- Tailwind CSS 3
+- Vue Router
+
+## 快速开始
+
+```bash
+# 安装依赖
+npm install
+
+# 启动开发服务器
+npm run dev
+
+# 构建生产版本
+npm run build
+
+# 预览生产版本
+npm run preview
+```
+
+## 项目结构
+
+```
+src/
+├── components/          # 公共组件
+│   ├── NavBar.vue      # 导航栏
+│   └── Footer.vue      # 底部
+├── views/              # 页面组件
+│   ├── Home.vue        # 首页
+│   ├── Equipment.vue   # 装备指南
+│   ├── Skills.vue      # 钓鱼技巧
+│   ├── Fish.vue        # 鱼种图鉴
+│   ├── Spots.vue       # 钓点分享
+│   └── Catches.vue     # 钓获记录
+├── router/             # 路由配置
+│   └── index.js
+├── App.vue             # 根组件
+├── main.js             # 入口文件
+└── style.css           # 全局样式
+```
+
+## 设计风格
+
+- **主色调**：蓝色系（#1E88E5），体现水元素和户外感
+- **辅助色**：橙色（#FF9800）用于强调和引导
+- **布局**：卡片式布局，信息层级分明
+
+## 响应式支持
+
+- 桌面端：多列布局，侧边栏导航
+- 平板端：双列布局，顶部导航栏
+- 移动端：单列布局，底部导航栏
+
+## License
+
+MIT
